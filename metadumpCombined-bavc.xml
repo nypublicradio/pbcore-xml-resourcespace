@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<pbcoreDescriptionDocument xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd" >
+
+<pbcoreIdentifier source="KBOO">kboo_10-0389t1</pbcoreIdentifier>
+<pbcoreIdentifier source="BAVC barcode">1003970</pbcoreIdentifier>
+<pbcoreTitle>KBOO 25th Anniversary: Remembering KBOO tape 1 of 2</pbcoreTitle>
+<pbcoreSubject subjectType="keyword" subjectTypeSource="KBOO topic terms">History</pbcoreSubject>
+<pbcoreSubject subjectType="keyword" subjectTypeSource="KBOO topic terms">Media</pbcoreSubject>
+<pbcoreDescription>This is a special program of reflections of the early history of KBOO, produced by Kathleen Stephenson and originally broadcast in September of 1993 for the 25th anniversary of the station and expanded for the celebration of KBOO's 30th anniversary. Additions include some segments recorded at KBOO's 30th anniversary party with KBOO's first station manager, the legendary Dave &quot;Mother&quot; Calhoun, also former program director Sheila Ruben, and former development director and station manager Brigit Sarabi, and former volunteers Liz Dalley and Jim &quot;Jaques&quot; Olding as well as current volunteers L.C. Hansen, Marlene Smith, and Jack. KBOO history.</pbcoreDescription>
+<pbcoreContributor>
+	<contributor>Kathleen Stephenson</contributor>
+	<contributorRole>KBOO Producer</contributorRole>
+</pbcoreContributor>
+<pbcorePublisher>
+	<publisher>KBOO</publisher>
+</pbcorePublisher>
+<pbcoreRightsSummary>
+	<rightsSummary>This audio is property of The KBOO Foundation and may include additional rights holders. It may be used for educational, scholarly, or private, personal use with attribution 'From KBOO Community Radio, Portland'. Any other use, such as commercial publication or multiple reproductions, requires written permission from The KBOO Foundation.</rightsSummary>
+</pbcoreRightsSummary>
+<pbcoreInstantiation>
+	<instantiationIdentifier source="KBOO">kboo_10-0389t1_19930915_25thAnnivRemembering.mp3</instantiationIdentifier>
+	<instantiationDigital>audio/mpeg3</instantiationDigital>
+	<instantiationLocation>A:/_final</instantiationLocation>
+	<instantiationMediaType>Sound</instantiationMediaType>
+	<instantiationGenerations>Copy</instantiationGenerations>
+	<instantiationDuration>01:19:32</instantiationDuration>
+</pbcoreInstantiation>
+<pbcoreInstantiation>
+	<instantiationIdentifier source="md5">4eb44e008cb2436e9615f9ae9f40b78f</instantiationIdentifier>
+	<instantiationIdentifier source="filename">kboo_10-0389t1_19930915_25thAnnivRemembering.wav</instantiationIdentifier>
+	<instantiationDate dateType="created">2016-04-27</instantiationDate>
+	<instantiationDigital>audio/x-wav</instantiationDigital>
+	<instantiationLocation>A:/_final</instantiationLocation>
+	<instantiationMediaType>Sound</instantiationMediaType>
+	<instantiationGenerations>Master: preservation</instantiationGenerations>
+	<instantiationFileSize unitsOfMeasure="GB">2.56</instantiationFileSize>
+	<instantiationDuration>01:19:32</instantiationDuration>
+	<instantiationChannelConfiguration>stereo</instantiationChannelConfiguration>
+	<instantiationEssenceTrack>
+		<essenceTrackSamplingRate unitsOfMeasure="kHz">96</essenceTrackSamplingRate>
+		<essenceTrackBitDepth>24</essenceTrackBitDepth>
+	</instantiationEssenceTrack>
+	<instantiationAnnotation annotationType="digital QC notes">tape from splices very gooey, had to clean through all of splices recorded at 15ips, slowed to 7.5ips in post</instantiationAnnotation>
+</pbcoreInstantiation>
+<pbcoreInstantiation>
+	<instantiationIdentifier source="KBOO">10-0389t1</instantiationIdentifier>
+	<instantiationDate dateType="recorded">1993-09-15</instantiationDate>
+	<instantiationPhysical>1/4 inch audio tape</instantiationPhysical>
+	<instantiationLocation>KBOO Archives Room</instantiationLocation>
+	<instantiationGenerations>Master</instantiationGenerations>
+	<instantiationDuration>02:08:00</instantiationDuration>
+	<instantiationAnnotation annotationType="physical condition">loose, uneven wind, popped strands big hole.</instantiationAnnotation>
+	<instantiationAnnotation annotationType="written notes on casing">Note: This is a special program of reflections of the early history of KBOO, produced by Kathleen Stephenson and originally broadcast in September of 1993 for the 25th anniversary of the station and expanded for this month's celebration of KBOO's 30th anniversary. For this airing we have added some segments recorded at KBOO's 30th anniversary party with KBOO's first station manager, the legendary Dave &quot;Mother&quot; Calhoun, also former program director Sheila Ruben, and former development director and station manager Brigit Sarabi, and former volunteers Liz Dalley and Jim &quot;Jaques&quot; Olding as well as current volunteers L.C. Hansen, Marlene Smith, and Jack. Thanks to those who shared their stories and &quot;Happy Birthday KBOO.&quot;</instantiationAnnotation>
+</pbcoreInstantiation>
+</pbcoreDescriptionDocument>
